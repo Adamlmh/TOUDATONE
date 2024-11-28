@@ -4,12 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './i18n';
+import { BrowserRouter } from "react-router-dom";
 import { ConfigProvider } from 'antd';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
+      <BrowserRouter>
      <ConfigProvider
     theme={{
       token: {
@@ -19,7 +21,7 @@ root.render(
   >
     <App />
   </ConfigProvider>
-
+</BrowserRouter>
   </React.StrictMode>
 );
 

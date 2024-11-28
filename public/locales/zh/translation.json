@@ -1,13 +1,33 @@
 {
   "menu": {
     "nav1": "首页",
-    "nav2": "关于我们",
-    "nav3": "联系我们"
+    "nav2": "一些资源",
+    "nav3": "价格"
   },
   "content": "内容",
   "changeLanguage": "更改语言",
   "content.main": "content.main",
   "footer": {
     "copyright": "Ant Design ©{{year}} 由 Ant UED 创建"
-  }
+  },
+  "menu.nav1": "menu.nav1",
+  "menu.nav2": "menu.nav2",
+  "footer.copyright": "footer.copyright",
+  "menu.nav3": "menu.nav3",
+  "Case Studies": "案例研究",
+  "Contact us": "联系我们",
+  "Webinars": "网络研讨",
+  "Events": "事件",
+  "Help Center": "帮助中心",
+  "Selling on Amazon, Simplified.": "在亚马逊上销售，简化版。",
+  "Selling on Amazon doesn’t have to be complicated. eComEngine offers flexible solutions designed to help you save time and maximize profits.": "在亚马逊上销售并不一定很复杂。eComEngine提供灵活的解决方案，旨在帮助您节省时间并最大限度地提高利润。",
+  "Get Amazon Reviews": "获取亚马逊评论",
+  "Rank better, improve product visibility, and maximize your ad spend.": "排名更好、提高产品可见性并最大限度地提高您的广告支出。",
+  "Automate Review Requests": "自动审查请求",
+  "Operational Analytics for FBA Sellers": "FBA卖家的运营分析",
+  "Get the SKU-level data you need to make faster and better decisions for your Amazon business.": "获取您所需的SKU级数据，以便为您的亚马逊业务做出更快、更好的决策。",
+  "Get Insights": "获得见解",
+  "Manage FBA Inventory": "管理FBA库存",
+  "Get action items based on over 70 data points to help you move faster and stay in stock.": "获取基于70多个数据点的行动项，帮助您更快地行动并保持库存。",
+  "Streamline Inventory Management": "简化库存管理"
 }
