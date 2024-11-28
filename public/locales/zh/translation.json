@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "nav1": "首页",
+    "nav2": "关于我们",
+    "nav3": "联系我们"
+  },
+  "content": "内容",
+  "changeLanguage": "更改语言",
+  "content.main": "content.main",
+  "footer": {
+    "copyright": "Ant Design ©{{year}} 由 Ant UED 创建"
+  }
+}

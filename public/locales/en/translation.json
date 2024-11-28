@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "nav1": "Home",
+    "nav2": "About",
+    "nav3": "Contact"
+  },
+  "content": "content",
+  "changeLanguage": "changeLanguage",
+  "footer": {
+    "copyright": "Ant Design ©{{year}} Created by Ant UED"
+  }
+}
