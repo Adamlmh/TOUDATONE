@@ -5,14 +5,27 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: "#2d3e50";
   font-weight: 500;
   line-height: 1.7;
-  word-wrap: break-word;
+
 }
 
 code {
   font-family: Montserrat,
     Arial,
     sans-serif
+}
+
+p {
+  text-align: center;
+  color: #2d3e50 ;
+  margin: 0;
+  font-weight: 500;
+  line-height: 1.7;
+  word-wrap: break-word;
+}
+
+h1{
+    color: #2d3e50;
+      margin: 0;
 }

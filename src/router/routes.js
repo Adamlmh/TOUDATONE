@@ -5,6 +5,8 @@ import { Navigate } from "react-router-dom";
 const Layout = lazy(() => import("../components/layout"));
 const Home = lazy(() => import("../page/home"));
 const Price = lazy(() => import("../page/price"));
+const Events = lazy(() => import("../page/events"));
+
 const routes = [
   {
     path: "/",
@@ -17,6 +19,10 @@ const routes = [
       {
         path: "/price",
         element: <Price />,
+      },
+      {
+        path: "/events",
+        element: <Events />,
       },
       {
         path: "/",

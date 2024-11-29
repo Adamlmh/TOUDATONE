@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { useTranslation } from 'react-i18next';
-
 import {
   StarOutlined,
   ProductOutlined,
@@ -15,8 +14,6 @@ import { Menu } from "antd";
 import { useNavigate } from 'react-router-dom';
 
 type MenuItem = Required<MenuProps>["items"][number];
-
-
 
 const Mmenu: React.FC = () => {
     const { t } = useTranslation();
@@ -38,7 +35,7 @@ const Mmenu: React.FC = () => {
         children: [
           { label: t('Case Studies'), key: "setting:1",icon: <StarOutlined />},
           { label: t('Webinars'), key: "setting:2" ,icon:<VideoCameraAddOutlined />},
-          { label: t('Events'), key: "setting:3",icon:<MailOutlined /> },
+          { label: t('Events'), key: "setting:3",icon:<MailOutlined /> ,onClick: () => navigate("/events")},
           { label: t('Help Center'), key: "setting:4" ,icon:<ToolOutlined />},
         ],
       },
