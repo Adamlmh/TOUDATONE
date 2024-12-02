@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "nav1": "Home",
+    "nav2": "Resources",
+    "nav3": "price"
+  },
+  "content": "content",
+  "changeLanguage": "changeLanguage",
+  "footer": {
+    "copyright": "Ant Design ©{{year}} Created by Ant UED"
+  },
+  "menu.nav1": "menu.nav1",
+  "menu.nav2": "menu.nav2",
+  "footer.copyright": "footer.copyright",
+  "menu.nav3": "menu.nav3",
+  "Case Studies": "Case Studies",
+  "Contact us": "Contact us",
+  "Webinars": "Webinars",
+  "Events": "Events",
+  "Help Center": "Help Center",
+  "Selling on Amazon, Simplified.": "Selling on Amazon, Simplified.",
+  "Selling on Amazon doesn’t have to be complicated. eComEngine offers flexible solutions designed to help you save time and maximize profits.": "Selling on Amazon doesn’t have to be complicated. eComEngine offers flexible solutions designed to help you save time and maximize profits.",
+  "Get Amazon Reviews": "Get Amazon Reviews",
+  "Rank better, improve product visibility, and maximize your ad spend.": "Rank better, improve product visibility, and maximize your ad spend.",
+  "Automate Review Requests": "Automate Review Requests",
+  "Operational Analytics for FBA Sellers": "Operational Analytics for FBA Sellers",
+  "Get the SKU-level data you need to make faster and better decisions for your Amazon business.": "Get the SKU-level data you need to make faster and better decisions for your Amazon business.",
+  "Get Insights": "Get Insights",
+  "Manage FBA Inventory": "Manage FBA Inventory",
+  "Get action items based on over 70 data points to help you move faster and stay in stock.": "Get action items based on over 70 data points to help you move faster and stay in stock.",
+  "Streamline Inventory Management": "Streamline Inventory Management"
+}
